@@ -11,6 +11,7 @@ const refs = {
 };
 
 let getTime = null;
+let choosenTime = null;
 
 startBtn.setAttribute('disabled', true);
 
